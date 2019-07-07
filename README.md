@@ -1,4 +1,5 @@
-This project is a sample for a blog post [How to setup Storybook in React Typescript project](https://medium.com/@pongsatt/how-to-setup-storybook-in-react-typescript-project-ad2516515919)
+This project is a sample for a blog post [How to setup Storybook in React Typescript project](https://medium.com/@pongsatt/how-to-setup-storybook-in-react-typescript-project-ad2516515919).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
