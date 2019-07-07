@@ -16,7 +16,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "storybook": "start-storybook -p 9009 -s public",
+    "build-storybook": "build-storybook -s public"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -32,5 +34,16 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@storybook/addon-actions": "^5.1.9",
+    "@storybook/addon-knobs": "^5.1.9",
+    "@storybook/addon-storyshots": "^5.1.9",
+    "@storybook/react": "^5.1.9",
+    "@types/storybook__addon-knobs": "^5.0.2",
+    "@types/storybook__addon-storyshots": "^4.0.1",
+    "@types/storybook__react": "^4.0.2",
+    "react-test-renderer": "^16.8.6",
+    "require-context.macro": "^1.0.4"
   }
 }

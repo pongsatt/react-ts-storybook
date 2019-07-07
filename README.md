@@ -1,3 +1,4 @@
+This project is a sample for a blog post [How to setup Storybook in React Typescript project](https://medium.com/@pongsatt/how-to-setup-storybook-in-react-typescript-project-ad2516515919)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -42,3 +43,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
